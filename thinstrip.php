@@ -2,7 +2,7 @@
 
   <div class="container">
     <a href="http://uw.edu" title="University of Washington Home" class="uw-patch">University of Washington</a>
-    <a href="http://uw.edu" title="University of Washington Home" class="uw-wordmark" tabindex='-1' aria-hidden='true'>University of Washington</a>
+    <div>Department of Biochemistry</div>
   </div>
   <div class='align-right'>
       <nav class="uw-thin-strip-nav" aria-label='audience menu'>
