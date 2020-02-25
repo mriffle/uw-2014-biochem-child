@@ -3,9 +3,9 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 330 24" style="enable-background:new 0 0 330 24;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#FFFFFF;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st0{fill:#FFFFFF;}
 	.st1{font-family:'MyriadPro-Regular';}
-	.st2{font-size:25.8182px;}
+	.st2{font-size:25.8182px;font-weight:bold;}
 </style>
 <text transform="matrix(1 0 0 1 -0.7104 18.8145)" class="st0 st1 st2">Department of Biochemistry</text>
 </svg>
