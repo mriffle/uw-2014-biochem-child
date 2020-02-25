@@ -11,3 +11,7 @@
  Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
  Text Domain:  uw2014-biochemistry-child
 */
+
+.uw-thinstrip .uw-wordmark {
+    url(biochem-logo.svg) no-repeat 0 -431px transparent;
+}
