@@ -2,16 +2,7 @@
 
   <div class="container">
     <a href="http://uw.edu" title="University of Washington Home" class="uw-patch">University of Washington</a>
-
-    <div style="
-        position: absolute;
-        color: white;
-        font-weight: bold;
-        font-size: 26pt;
-        left: 140px;
-        top: -2px;
-    ">Biochemistry</div>
-
+    <a href="http://sites.uw.edu/biochemistry" title="UW Biochemistry Home" class="uw-wordmark" tabindex='-1' aria-hidden='true'>UW Biochemistry</a>
   </div>
   <div class='align-right'>
       <nav class="uw-thin-strip-nav" aria-label='audience menu'>
