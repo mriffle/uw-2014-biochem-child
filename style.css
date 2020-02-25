@@ -15,3 +15,10 @@
 .uw-thinstrip .uw-wordmark {
     background: url(biochem-logo.svg) no-repeat 0 0 transparent;
 }
+
+@media only screen and (max-width: 767px) {
+    .uw-thinstrip .uw-wordmark {
+        top:14px;
+        background: url(biochem-logo.svg) no-repeat 0 0 transparent;
+    }
+}
