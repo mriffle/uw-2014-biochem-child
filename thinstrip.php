@@ -7,7 +7,7 @@
   <div class='align-right'>
       <nav class="uw-thin-strip-nav" aria-label='audience menu'>
           <ul class="uw-thin-links">
-            <li><a href="http://www.acceleratemed.org/give/?page=make&source=BIOCHE" title="Support Biochemistry">Support Biochemistry</a></li>
+            <li><a href="http://depts.washington.edu/givemed/give/?page=make&source=bioche" title="Support Biochemistry">Support Biochemistry</a></li>
           </ul>
       </nav>
       <nav id='search-quicklinks' aria-label='search and quick links'>
